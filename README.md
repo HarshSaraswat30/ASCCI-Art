@@ -1,4 +1,4 @@
-# ASCCI-Art
+# ASCII-Art
 
 Alphabet-to-ASCII-art conversion
 Supports uppercase and lowercase
